@@ -5,7 +5,7 @@
 <h1 align="center">HM Remote</h1>
 
 <p align="center">
-Desktop remote control and database management tool for *HiFiMAN HM1000* and *HM901R* players.
+Desktop remote control and database management tool for __HiFiMAN HM1000__ and __HM901R__ players.
 </p>
 
 <p align="center">
