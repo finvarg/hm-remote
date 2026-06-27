@@ -12,7 +12,7 @@ Desktop remote control, database management and library sync tool for <strong>Hi
   <img src="Assets/Screenshots/main-window.png" alt="HM Remote Main Window">
 </p>
 <p align="center">
-  <img src="Assets/Screenshots/sync-window.png" style="width:559px; max-width:100%; height:auto;" alt="HM Remote Sync Window">
+  <img src="Assets/Screenshots/sync-window.png" style="width:359px; max-width:100%; height:auto;" alt="HM Remote Sync Window">
 </p>
 
 ## Overview
