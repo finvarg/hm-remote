@@ -44,6 +44,7 @@ HM Remote allows you to browse the player's music library and start playback dir
 * Start playback directly from the library
 * Display current track information
 * Display album artwork
+* Single-file CUE support with gapless playback
 
 ### Playback Queue
 
